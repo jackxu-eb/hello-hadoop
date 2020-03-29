@@ -1,0 +1,13 @@
+# python
+*.pyc
+__pycache__/
+
+# pycharm
+.idea/
+
+# temporary files
+tmp
+
+*.env
+*.log
+*.pid
